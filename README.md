@@ -39,4 +39,6 @@ I developed this project to:
 ![Banking Simulator Output](output.png)
 
 ---
+**Developed by [Harsh Sanjit]**
+---
 *Developed as part of a C Programming exercise.*
